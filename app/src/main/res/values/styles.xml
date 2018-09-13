@@ -1,0 +1,102 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="cardStyle">
+        <item name="android:layout_width">79dp</item>
+        <item name="android:layout_height">31dp</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:text">Jennie Kim</item>
+    </style>
+    <style name="jStyle">
+        <item name="android:layout_width">340dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#333333</item>
+         <item name="android:text">Jennie lived in Auckland, New Zealand for 5 years. (“Knowing Brother”). She studied in New Zealand at ACG Parnell College. One of her nicknames is “Human Gucci” due to the fact that she often wears expensive clothing from Gucci. Jennie’s Chinese zodiac sign is Pig.</item>
+    </style>
+    <style name="j2Style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:text">Main Rapper, Vocalist</item>
+    </style>
+    <style name="j3Style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:layout_height">21dp</item>
+        <item name="android:text">Kim Ye Won</item>
+    </style>
+    <style name="uStyle">
+        <item name="android:layout_width">340dp</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Umji is born into a rich family. Umji’s father is the CEO of a famous dentist group called Moa Dentist Group. The CEO of Source Music saw her walking on the street and invited her to make an audition. Umji and Yerin have the same birth date, but different year.Umji and Yuju are the English speakers of the group.</item>
+    </style>
+    <style name="u2Style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Member of Gfriend</item>
+    </style>
+    <style name="card2Style">
+        <item name="android:layout_width">412dp</item>
+        <item name="android:layout_height">43dp</item>
+        <item name="android:background">#ffe6e6</item>
+        <item name="android:text">Card Activity</item>
+        <item name="android:textColor">#ff6666</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="pStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Park Ji-hyo</item>
+    </style>
+    <style name="p2Style">
+        <item name="android:layout_width">339dp</item>
+        <item name="android:layout_height">108dp</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:text">She is the leader and main vocalist of the group. She officially joined the company on July 15, 2005, and was a trainee for over 10 years. Jihyo was known mostly pre-debut as the face of Innisfree's teen line &quot;TN&quot; with boy band Boyfriend and later with future group mate Nayeon.</item>
+    </style>
+    <style name="p3Style">
+        <item name="android:layout_width">71dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:cropToPadding">true</item>
+    </style>
+    <style name="p4Style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:text">Twice Leader</item>
+    </style>
+    <style name="u4Style">
+        <item name="android:layout_width">49dp</item>
+        <item name="android:layout_height">61dp</item>
+    </style>
+    <style name="j4Style">
+        <item name="android:layout_width">49dp</item>
+        <item name="android:layout_height">468dp</item>
+    </style>
+    <style name="bStyle">
+        <item name="android:layout_width">342dp</item>
+        <item name="android:layout_height">174dp</item>
+        <item name="android:background">#ffe6e6</item>
+    </style>
+    <style name="b2Style">
+        <item name="android:layout_width">342dp</item>
+        <item name="android:layout_height">174dp</item>
+        <item name="android:background">#ffe6e6</item>
+    </style>
+    <style name="b3Style">
+        <item name="android:layout_width">342dp</item>
+        <item name="android:layout_height">174dp</item>
+        <item name="android:background">#ffe6e6</item>
+    </style>
+
+
+</resources>
